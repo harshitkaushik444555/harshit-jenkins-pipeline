@@ -33,3 +33,13 @@ Full Build Lifecycle: Executes all build lifecycle phases (validate → compile 
 Installation: Installs the final artifact into the local Maven repository for reuse by other projects.
 ```
 
+What is Sonarqube?
+```
+SonarQube is an open-source platform for continuous code quality inspection. It analyzes source code to detect bugs,
+security vulnerabilities, code smells (maintainability issues), and technical debt. SonarQube integrates with build
+tools, version control systems, and CI/CD pipelines, providing detailed reports and metrics to help developers write
+cleaner, safer, and more maintainable code. Its key services include static code analysis for multiple programming
+languages, quality gate enforcement to ensure code meets defined standards, and dashboards to visualize code health
+trends. It supports both on-premises and cloud deployment, making it a powerful tool for improving code quality in
+software development workflows.
+```
